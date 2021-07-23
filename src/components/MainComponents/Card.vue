@@ -1,7 +1,7 @@
 <template>
   <div class="buyer-block">
     <div class="buyer-block__image-block">
-      <img :src="`${buyer.photo}`" alt="buyer photo" class="buyer-block__image-preview">
+      <img :src="buyer.photo" alt="buyer photo" class="buyer-block__image-preview">
     </div>
     <div class="buyer-block__description">
       <div class="buyer-block__title">
