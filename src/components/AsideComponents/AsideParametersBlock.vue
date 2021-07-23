@@ -21,7 +21,7 @@
             </linearGradient>
           </defs>
         </svg>
-        <span class="button-count">1</span>
+        <span class="button-count"></span>
       </div>
       <div class="satisfaction-value">
         <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -42,7 +42,7 @@
             </linearGradient>
           </defs>
         </svg>
-        <span class="button-count">2</span>
+        <span class="button-count"></span>
       </div>
       <div class="satisfaction-value">
         <svg width="56" height="48" viewBox="0 0 56 48" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -59,7 +59,7 @@
             </linearGradient>
           </defs>
         </svg>
-        <span class="button-count">4</span>
+        <span class="button-count"></span>
       </div>
     </div>
   </div>
